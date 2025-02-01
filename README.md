@@ -1,5 +1,4 @@
 ## S86_The_Cringe_Collection_AwkwardMoments
-This is your first repository
 Project Title:  
 The Cringe Collection :Awkward Moments
 
