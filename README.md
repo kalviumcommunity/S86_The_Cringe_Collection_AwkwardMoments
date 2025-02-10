@@ -5,7 +5,7 @@ The Cringe Collection :Awkward Moments
 Project Overview:
 This project compiles an all-inclusive and very relatable list of awkward moments people generally experience in daily life. It's going to be a funny, entertaining resource that will help people laugh over the shared awkwardness of human interaction. It can be a funny article, social media content, or even a small interactive app where users can add their own awkward moments.
 
-Key Features:
+Key Features about the project:
 
 Categorized Moments: Create awkward moments categories, like social settings, work environments, public transport, etc.
 User Submissions: Include user submissions for adding more of their awkward moments
