@@ -1,0 +1,12 @@
+{
+  "name": "s86_the_cringe_collection_awkwardmoments",
+  "version": "1.0.0",
+  "description": "Project Title:   The Cringe Collection :Awkward Moments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
